@@ -145,7 +145,7 @@ export async function POST(request: NextRequest) {
                         <!-- Header -->
                         <tr>
                             <td class="header" align="center">
-                                <img src="http://ddumba.kyakabi.com/profile/ibd.png" alt="Ddumba Abdallah Kato Portfolio" width="564" style="display: block; max-width: 100%;">
+                                <img src="http://asadullah.kyakabi.com/profile/ibd.png" alt="Muhammad Asadullah Portfolio" width="564" style="display: block; max-width: 100%;">
                             </td>
                         </tr>
                         
@@ -155,11 +155,11 @@ export async function POST(request: NextRequest) {
                                 <h2 class="text-center" style="text-align: center;"><strong><u>NEW CONTACT FORM SUBMISSION</u></strong></h2>
                                 
                                 <p class="text-center" style="text-align: center;">
-                                    Ddumba Abdallah Kato Portfolio<br>
-                                    a.ddumba@kyakabi.com
+                                    Muhammad Asadullah Portfolio<br>
+                                    muhammad.asadullah@example.com
                                 </p>
                                 
-                                <p>Hello Ddumba,</p>
+                                <p>Hello Asadullah,</p>
                                 
                                 <p>You have received a new message through your portfolio website contact form. Here are the details:</p>
                                 
@@ -186,26 +186,26 @@ export async function POST(request: NextRequest) {
                         <!-- Footer -->
                         <tr>
                             <td class="footer">
-                                <p><strong>DDUMBA ABDALLAH KATO</strong><br>
+                                <p><strong>MUHAMMAD ASADULLAH</strong><br>
                                 Software Developer based in Kampala, Uganda<br>
-                                a.ddumba@kyakabi.com | +256701019242</p>
+                                muhammad.asadullah@example.com | +923000000000</p>
                                 
                                 <!-- Social Icons -->
                                 <div class="social-icons">
-                                    <a href="https://www.facebook.com/abdallahddumba.kato/" target="_blank">
+                                    <a href="https://www.facebook.com/muhammad.asadullah/" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-facebook-48.png" alt="Facebook" width="24" height="24">
                                     </a>
-                                    <a href="https://twitter.com/Hatalabdallah" target="_blank">
+                                    <a href="https://twitter.com/muhammadasadullah" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-twitter-48.png" alt="Twitter" width="24" height="24">
                                     </a>
-                                    <a href="https://ddumba.kyakabi.com/projects" target="_blank">
+                                    <a href="https://asadullah.kyakabi.com/projects" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-link-48.png" alt="Website" width="24" height="24">
                                     </a>
 
                                     <a href="https://wa.me/256701019242" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-whatsapp-48.png" alt="WhatsApp" width="24" height="24">
                                     </a>
-                                    <a href="https://github.com/abdallahddumbakato" target="_blank">
+                                    <a href="https://github.com/muhammadasadullah" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-github-48.png" alt="GitHub" width="24" height="24">
                                     </a>
                                 </div>
@@ -344,7 +344,7 @@ export async function POST(request: NextRequest) {
                         <!-- Header -->
                         <tr>
                             <td class="header" align="center">
-                                <img src="http://ddumba.kyakabi.com/profile/ibd.png" alt="Ddumba Abdallah Kato Portfolio" width="564" style="display: block; max-width: 100%;">
+                                <img src="http://asadullah.kyakabi.com/profile/ibd.png" alt="Muhammad Asadullah Portfolio" width="564" style="display: block; max-width: 100%;">
                             </td>
                         </tr>
                         
@@ -354,7 +354,7 @@ export async function POST(request: NextRequest) {
                                 <h2 class="text-center" style="text-align: center;"><strong><u>MESSAGE CONFIRMATION</u></strong></h2>
                                 
                                 <p class="text-center" style="text-align: center;">
-                                    Ddumba Abdallah Kato - Software Developer<br>
+                                    Muhammad Asadullah - Software Developer<br>
                                     Full Stack Developer & Web Technologies Specialist
                                 </p>
                                 
@@ -373,15 +373,15 @@ export async function POST(request: NextRequest) {
                                 
                                 <p>In the meantime, feel free to explore more of my work:</p>
                                 <ul>
-                                    <li>View my <a href="https://ddumba.kyakabi.com/projects">recent projects</a></li>
-                                    <li>Check out my <a href="https://ddumba.kyakabi.com/skills">technical skills</a></li>
-                                    <li>See my professional <a href="https://ddumba.kyakabi.com/certificates">certifications</a></li>
+                                    <li>View my <a href="https://asadullah.kyakabi.com/projects">recent projects</a></li>
+                                    <li>Check out my <a href="https://asadullah.kyakabi.com/skills">technical skills</a></li>
+                                    <li>See my professional <a href="https://asadullah.kyakabi.com/certificates">certifications</a></li>
                                 </ul>
                                 
                                 <p>I look forward to connecting with you and discussing how we can bring your ideas to life with modern, efficient technology solutions!</p>
                                 
                                 <p>Best regards,<br>
-                                <strong>Ddumba Abdallah Kato</strong><br>
+                                <strong>Muhammad Asadullah</strong><br>
                                 Software Developer</p>
                             </td>
                         </tr>
@@ -389,28 +389,28 @@ export async function POST(request: NextRequest) {
                         <!-- Footer -->
                         <tr>
                             <td class="footer">
-                                <p><strong>DDUMBA ABDALLAH KATO</strong><br>
+                                <p><strong>MUHAMMAD ASADULLAH</strong><br>
                                 Software Developer based in Kampala, Uganda<br>
                                 Specializing in Full Stack Development, Web Technologies & Cloud Computing</p>
                                 
-                                <p>a.ddumba@kyakabi.com | +256701019242</p>
+                                <p>muhammad.asadullah@example.com | +923000000000</p>
                                 
                                 <!-- Social Icons -->
                                 <div class="social-icons">
-                                    <a href="https://www.facebook.com/abdallahddumba.kato/" target="_blank">
+                                    <a href="https://www.facebook.com/muhammad.asadullah/" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-facebook-48.png" alt="Facebook" width="24" height="24">
                                     </a>
-                                    <a href="https://twitter.com/Hatalabdallah" target="_blank">
+                                    <a href="https://twitter.com/muhammadasadullah" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-twitter-48.png" alt="Twitter" width="24" height="24">
                                     </a>
-                                    <a href="https://ddumba.kyakabi.com/projects" target="_blank">
+                                    <a href="https://asadullah.kyakabi.com/projects" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-link-48.png" alt="Website" width="24" height="24">
                                     </a>
 
                                     <a href="https://wa.me/256701019242" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-whatsapp-48.png" alt="WhatsApp" width="24" height="24">
                                     </a>
-                                    <a href="https://github.com/abdallahddumbakato" target="_blank">
+                                    <a href="https://github.com/muhammadasadullah" target="_blank">
                                         <img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-github-48.png" alt="GitHub" width="24" height="24">
                                     </a>
                                 </div>
@@ -420,7 +420,7 @@ export async function POST(request: NextRequest) {
                                 </p>
                                 
                                 <p style="font-size: 10px;">
-                                    &copy; ${currentYear} Ddumba Abdallah Kato. All rights reserved.
+                                    &copy; ${currentYear} Muhammad Asadullah. All rights reserved.
                                 </p>
                             </td>
                         </tr>
@@ -442,9 +442,9 @@ export async function POST(request: NextRequest) {
 
     // Send confirmation email to sender
     await transporter.sendMail({
-      from: `"Ddumba Abdallah Kato" <${process.env.FROM_EMAIL}>`,
+      from: `"Muhammad Asadullah" <${process.env.FROM_EMAIL}>`,
       to: email,
-      subject: 'Message Received - Ddumba Abdallah Kato',
+      subject: 'Message Received - Muhammad Asadullah',
       html: senderEmailHtml,
     });
 

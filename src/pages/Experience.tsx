@@ -64,9 +64,9 @@ const Experience = () => {
 	return (
 		<>
 			<SEO 
-				title="Professional Experience - Ddumba Abdallah Kato"
+				title="Professional Experience - Muhammad Asadullah"
 				description="View my professional experience including internships at Code Alpha, Bharat Intern, CodeClause, and Oasis Infobyte. Full stack development, React.js, Node.js, and software engineering projects."
-				canonicalUrl="https://ddumba.kyakabi.com/experience"
+				canonicalUrl="https://asadullah.kyakabi.com/experience"
 			/>
 			<div className="min-h-screen pt-16 sm:pt-20 px-4 max-w-5xl mx-auto pb-16 sm:pb-20">
 				<ScrollAnimation>

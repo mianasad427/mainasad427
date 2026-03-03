@@ -12,10 +12,10 @@ const fetcher = (url: string) => fetch(url).then(res => res.json());
 
 const Home = () => {
 	const [copied, setCopied] = useState(false);
-	const email = 'a.ddumba@kyakabi.com';
-	const whatsappNumber = '+256701019242';
+	const email = 'muhammad.asadullah@example.com';
+	const whatsappNumber = '+923000000000';
 
-	const { data: githubData } = useSWR('https://api.github.com/users/abdallahddumbakato', fetcher);
+	const { data: githubData } = useSWR('https://api.github.com/users/muhammadasadullah', fetcher);
 	function formatRepoCount(count: number): string {
 		if (count < 5) return count.toString();
 		return `${Math.floor(count / 5) * 5}+`;
@@ -45,9 +45,9 @@ const Home = () => {
 	return (
 		<>
 			<SEO 
-				title="Ddumba Abdallah Kato - Software Developer & Full Stack Specialist"
-				description="Software Developer specializing in Full Stack Development with expertise in Web Technologies, Database Systems and Cloud Computing. Based in Kampala, Uganda."
-				canonicalUrl="https://ddumba.kyakabi.com"
+				title="Muhammad Asadullah - Software Developer"
+				description="Software Developer specializing in Full Stack Development with expertise in Web Technologies."
+				canonicalUrl="https://portfolio.com"
 			/>
 			<div className="min-h-screen flex items-center justify-center px-4 mt-7 sm:mt-0 md:mt-3 lg:mt-5">
 				<div className="text-center relative z-10 max-w-4xl mx-auto">
@@ -57,7 +57,7 @@ const Home = () => {
 						animate={{ opacity: 1, y: 0 }}
 						transition={{ duration: 0.8 }}
 					>
-						Ddumba .K. Abdallah
+						Muhammad Asadullah
 					</motion.h1>
 					<motion.h1
 						className="text-2xl sm:text-4xl md:text-6xl font-bold mb-4 sm:mb-6 relative tracking-tighter"
@@ -85,7 +85,7 @@ const Home = () => {
 					>
 						<div className="flex justify-center space-x-3 sm:space-x-4">
 							<a
-								href="/files/cv_pdf/Ddumba_Abdallah_Kato_CV.pdf"
+								href="/files/cv_pdf/Asadullah_Asadullah_Kato_CV.pdf"
 								target="_blank"
 								rel="noopener noreferrer"
 								className="px-4 sm:px-6 py-2.5 sm:py-3 bg-white text-black rounded-full text-sm sm:text-base font-medium hover:bg-gray-100 transition-colors flex items-center gap-2"
@@ -130,7 +130,7 @@ const Home = () => {
 						transition={{ duration: 0.8, delay: 0.6 }}
 					>
 						<motion.a
-							href="https://github.com/Hatalabdallah"
+							href="https://github.com/muhammadasadullah"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="flex flex-col items-center group w-full"
@@ -151,7 +151,7 @@ const Home = () => {
 						</motion.a>
 
 						<motion.a
-							href="https://twitter.com/Hatalabdallah" // Use x.com for the new link
+							href="https://twitter.com/muhammadasadullah" // Use x.com for the new link
 							target="_blank"
 							rel="noopener noreferrer"
 							className="flex flex-col items-center group w-full"

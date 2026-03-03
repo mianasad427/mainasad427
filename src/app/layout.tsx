@@ -16,35 +16,35 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-	title: 'Ddumba Abdallah Kato - Software Developer & Full Stack Specialist',
-	description: 'Software Developer specializing in Full Stack Development with expertise in Web Technologies, Database Systems and Cloud Computing. Based in Kampala, Uganda.',
-	keywords: 'Ddumba Abdallah Kato, Software Developer, Full Stack Developer, Web Developer, React Developer, Next.js Expert, Database Developer, Frontend Specialist, Backend Developer, JavaScript Expert, TypeScript Developer, Node.js Developer, MongoDB Expert, SQL Developer, Uganda Developer, Kampala Developer',
-	authors: [{ name: 'Ddumba Abdallah Kato' }],
-	creator: 'Ddumba Abdallah Kato',
+	title: 'Muhammad Asadullah - Software Developer & Full Stack Specialist',
+	description: 'Software Developer specializing in Full Stack Development with expertise in Web Technologies.',
+	keywords: 'Muhammad Asadullah, Software Developer, Full Stack Developer, Web Developer, React Developer, Next.js Expert',
+	authors: [{ name: 'Muhammad Asadullah' }],
+	creator: 'Muhammad Asadullah',
 	manifest: '/manifest.json',
 	themeColor: '#000000',
 	viewport: 'width=device-width, initial-scale=1, maximum-scale=5',
 	openGraph: {
 		type: 'website',
 		locale: 'en_US',
-		url: 'https://ddumba.kyakabi.com/',
-		title: 'Ddumba Abdallah Kato - Software Developer & Full Stack Specialist',
-		description: 'Software Developer specializing in Full Stack Development with expertise in Web Technologies, Database Systems and Cloud Computing. Based in Kampala, Uganda.',
-		siteName: 'Ddumba Abdallah Kato Portfolio',
+		url: 'https://portfolio.com/',
+		title: 'Muhammad Asadullah - Software Developer & Full Stack Specialist',
+		description: 'Software Developer specializing in Full Stack Development with expertise in Web Technologies.',
+		siteName: 'Muhammad Asadullah Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: 'Ddumba Abdallah Kato - Software Developer',
+				alt: 'Muhammad Asadullah - Software Developer',
 			},
 		],
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: 'Ddumba Abdallah Kato - Software Developer & Full Stack Specialist',
-		description: 'Software Developer specializing in Full Stack Development with expertise in Web Technologies, Database Systems and Cloud Computing.',
-		creator: '@Abdallahddumbakato',
+		title: 'Muhammad Asadullah - Software Developer & Full Stack Specialist',
+		description: 'Software Developer specializing in Full Stack Development with expertise in Web Technologies.',
+		creator: '@Asadullah',
 		images: ['/og-image.jpg'],
 	},
 	robots: {
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
 			'max-snippet': -1,
 		},
 	},
-	metadataBase: new URL('https://ddumba.kyakabi.com'),
+	metadataBase: new URL('https://portfolio.com'),
 	alternates: {
 		canonical: '/',
 		languages: {

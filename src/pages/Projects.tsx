@@ -10,7 +10,7 @@ const projects = [
 		title: 'Live Docs',
 		description: 'Real-time collaborative document editor built with Next.js, TypeScript, and Tailwind CSS, featuring live editing, comments, and notifications.',
 		image: '/projects_img/project-1.png',
-		github: 'https://github.com/Abdallahddumbakato/LiveDocs',
+		github: 'https://github.com/Asadullahasadullahkato/LiveDocs',
 		live: 'https://livedocs11.vercel.app',
 		tags: ["Next.js", "TypeScript", "Liveblocks", "Lexical Editor", "ShadCN", "Tailwind CSS"]
 	},
@@ -18,7 +18,7 @@ const projects = [
 		title: 'Figma Clone',
 		description: 'A real-time collaborative design tool inspired by Figma. This application allows users to create, modify, and collaborate on designs in real- time.',
 		image: '/projects_img/project-2.png',
-		github: 'https://github.com/Abdallahddumbakato/Figma-Clone',
+		github: 'https://github.com/Asadullahasadullahkato/Figma-Clone',
 		live: 'https://tigma1.vercel.app/',
 		tags: ["Next.js", "TypeScript", "Liveblocks", "Fabric.js", "Shadcn", "Tailwind CSS"]
 	},
@@ -26,7 +26,7 @@ const projects = [
 		title: 'Video Conferencing App',
 		description: 'The Video Conferencing App enables users to create and join video meetings with chat, screen sharing, and recording features.',
 		image: '/projects_img/project-3.png',
-		github: 'https://github.com/Abdallahddumbakato/Video-Conferencing-App',
+		github: 'https://github.com/Asadullahasadullahkato/Video-Conferencing-App',
 		live: 'https://yoom01.vercel.app/',
 		tags: ["Tailwind CSS", "React.js", "Next.js", "Clerk", "Stream"]
 	},
@@ -34,7 +34,7 @@ const projects = [
 		title: 'Gemini Chatbot',
 		description: 'React-based chatbot clone of Google Gemini AI. It offers a chat interface, uses Gemini for responses, and is styled with CSS.',
 		image: '/projects_img/project-4.png',
-		github: 'https://github.com/Abdallahddumbakato/Gemini-Chatbot',
+		github: 'https://github.com/Asadullahasadullahkato/Gemini-Chatbot',
 		live: 'https://gamini-bot.vercel.app/',
 		tags: ['React.js', 'Tailwind CSS', 'JavaScript', 'Google APIs']
 	},
@@ -42,7 +42,7 @@ const projects = [
 		title: 'Travel App',
 		description: 'Travel App is a Next.js web application offering travel information, built with Tailwind CSS for a modular, responsive user interface.',
 		image: '/projects_img/project-5.png',
-		github: 'https://github.com/Abdallahddumbakato/Travel-App',
+		github: 'https://github.com/Asadullahasadullahkato/Travel-App',
 		live: 'https://hilinking.vercel.app/',
 		tags: ['React.js', 'Tailwind CSS', 'JavaScript', 'TypeScript']
 	},
@@ -50,7 +50,7 @@ const projects = [
 		title: 'Brainwave Project',
 		description: 'A modern AI application built with React JS and Tailwind CSS, featuring smooth animations, unique design elements, and responsive layouts.Ideal for enhancing web development skills',
 		image: '/projects_img/project-6.png',
-		github: 'https://github.com/Abdallahddumbakato/Brainwave-Project',
+		github: 'https://github.com/Asadullahasadullahkato/Brainwave-Project',
 		live: 'https://brainswave.netlify.app/',
 		tags: ['React.js', 'Tailwind CSS', 'JavaScript', 'Vite']
 	},
@@ -60,9 +60,9 @@ const Projects = () => {
 	return (
 		<>
 			<SEO 
-				title="Projects Portfolio - Ddumba Abdallah Kato"
+				title="Projects Portfolio - Muhammad Asadullah"
 				description="Explore my featured projects including Live Docs (collaborative editor), Figma Clone, Video Conferencing App, Gemini Chatbot, Travel App, and Brainwave Project built with React, Next.js, and modern web technologies."
-				canonicalUrl="https://ddumba.kyakabi.com/projects"
+				canonicalUrl="https://asadullah.kyakabi.com/projects"
 			/>
 			<div className="min-h-screen pt-20 px-4 max-w-6xl mx-auto">
 				<ScrollAnimation>

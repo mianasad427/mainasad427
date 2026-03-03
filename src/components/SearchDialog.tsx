@@ -9,13 +9,13 @@ const searchData = [
 		title: 'Home',
 		description: 'Go to the welcome page',
 		path: '/',
-		keywords: ['home', 'cv', 'resume', 'start', 'welcome', 'portfolio', 'ddumba', 'ddumba abdallah kato', 'software developer', 'full stack developer', 'web developer', 'uganda']
+		keywords: ['home', 'cv', 'resume', 'start', 'welcome', 'portfolio', 'asadullah', 'asadullah asadullah', 'software developer', 'full stack developer', 'web developer', 'uganda']
 	},
 	{
 		title: 'About',
 		description: 'Learn more about me and my background',
 		path: '/about',
-		keywords: ['about', 'background', 'education', 'bio', 'profile', 'cv', 'resume', 'ddumba', 'abdallah kato', 'full stack developer', 'software engineer', 'web developer']
+		keywords: ['about', 'background', 'education', 'bio', 'profile', 'cv', 'resume', 'asadullah', 'asadullah', 'full stack developer', 'software engineer', 'web developer']
 	},
 	{
 		title: 'Education',

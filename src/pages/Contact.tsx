@@ -59,14 +59,14 @@ const Contact = () => {
 		{
 			icon: <Mail className="w-5 h-5" />,
 			label: 'Email',
-			value: 'a.ddumba@kyakabi.com',
-			link: 'mailto:a.ddumba@kyakabi.com'
+			value: 'muhammad.asadullah@example.com',
+			link: 'mailto:muhammad.asadullah@example.com'
 		},
 		{
 			icon: <Phone className="w-5 h-5" />,
 			label: 'Phone',
-			value: '+256701019242',
-			link: 'tel:+256701019242'
+			value: '+923000000000',
+			link: 'tel:+923000000000'
 		},
 		{
 			icon: <MapPin className="w-5 h-5" />,
@@ -84,26 +84,26 @@ const Contact = () => {
 		{
 			icon: <Github className="w-5 h-5" />,
 			label: 'GitHub',
-			link: 'https://github.com/Abdallahddumbakato'
+			link: 'https://github.com/Asadullahasadullahkato'
 		},
 		{
 			icon: <Linkedin className="w-5 h-5" />,
 			label: 'LinkedIn',
-			link: 'https://linkedin.com/in/Hatalabdallah'
+			link: 'https://linkedin.com/in/muhammadasadullah'
 		},
 		{
 			icon: <MessageCircle className="w-5 h-5" />,
 			label: 'WhatsApp',
-			link: 'https://wa.me/+256701019242'
+			link: 'https://wa.me/+923000000000'
 		}
 	];
 
 	return (
 		<>
 			<SEO 
-				title="Contact Ddumba Abdallah Kato - Software Developer"
-				description="Get in touch with Ddumba Abdallah Kato for web development projects, software consulting, or collaboration opportunities. Contact via email, phone, or WhatsApp from Kampala, Uganda."
-				canonicalUrl="https://ddumba.kyakabi.com/contact"
+				title="Contact Muhammad Asadullah - Software Developer"
+				description="Get in touch with Muhammad Asadullah for web development projects, software consulting, or collaboration opportunities. Contact via email, phone, or WhatsApp from Kampala, Uganda."
+				canonicalUrl="https://asadullah.kyakabi.com/contact"
 			/>
 			<div className="min-h-screen pt-16 sm:pt-20 px-4 max-w-6xl mx-auto pb-16 sm:pb-20">
 				<motion.div

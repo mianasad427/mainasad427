@@ -68,9 +68,9 @@ const Certificates = () => {
 	return (
 		<>
 			<SEO 
-				title="Certificates & Certifications - Ddumba Abdallah Kato"
+				title="Certificates & Certifications - Muhammad Asadullah"
 				description="View my professional certificates and certifications in TypeScript, AWS ECS, Docker, JavaScript, Python, and cybersecurity from Geekster, KodeKloud, HackerRank, and more."
-				canonicalUrl="https://ddumba.kyakabi.com/certificates"
+				canonicalUrl="https://asadullah.kyakabi.com/certificates"
 			/>
 			<div className="min-h-screen pt-20 px-4 max-w-6xl mx-auto pb-20">
 				<ScrollAnimation>

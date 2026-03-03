@@ -37,7 +37,7 @@ const Navbar = () => {
 						{/* Logo */}
 						<Link href="/" className="flex items-center space-x-3">
 							<Code2 className="w-8 h-8 text-white" />
-							<span className="text-xl font-bold text-white">Ddumba Abdallah</span>
+							<span className="text-xl font-bold text-white">Muhammad Asadullah</span>
 						</Link>
 
 						{/* Desktop Navigation */}
